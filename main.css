@@ -1,0 +1,24 @@
+body{
+  
+   margin: 0;
+   background-color: #004d4d;
+}
+.site-header{
+ color: antiquewhite;
+ height: 100%;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin-top: 80px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.site-header-content{
+    margin: 10px;
+}
+.image{
+    border-radius: 50%;
+    height: 200px;
+    width:200px;
+    box-shadow: 5px 5px 5px #053030;
+}
